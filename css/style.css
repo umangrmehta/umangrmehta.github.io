@@ -844,11 +844,14 @@ ol {
 
 .home-three-style .resume-list,
 .home-four-style .resume-list {
-	/*
-	border-left: none;
-	padding-left: 0;
-*/
 	margin-left: 0;
+}
+
+.home-three-style .resume-list li p i,
+.home-four-style .resume-list li p i {
+	margin-left: -30px;
+	margin-right: 12px;
+	color: #ff0f3c
 }
 
 .home-three-style .header-section,
@@ -911,7 +914,7 @@ ol {
 .home-four-style .social-links {
 	text-align: center;
 	padding-bottom: 70px;
-	padding-top: 120px;
+	padding-top: 70px;
 }
 
 .home-three-style .social-links a,

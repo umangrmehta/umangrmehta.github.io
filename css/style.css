@@ -847,6 +847,13 @@ ol {
 	margin-left: 0;
 }
 
+.home-three-style p i,
+.home-four-style p i {
+	margin-left: -30px;
+	margin-right: 12px;
+	color: #fff
+}
+
 .home-three-style .resume-list li p i,
 .home-four-style .resume-list li p i {
 	margin-left: -30px;
